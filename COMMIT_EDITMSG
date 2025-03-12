@@ -1,0 +1,18 @@
+Assistant checkpoint: Added About, Privacy, and Terms pages to the router
+
+Assistant generated file changes:
+- client/src/pages/about.tsx: Create an About page
+- client/src/pages/privacy.tsx: Create a Privacy Policy page
+- client/src/pages/terms.tsx: Create a Terms of Service page
+- client/src/App.tsx: Update router to include new pages
+- client/src/components/sections/footer.tsx: Update footer navigation links
+- client/src/components/layout.tsx: Fix layout component to use React structure
+
+---
+
+User prompt:
+
+please add the page to the router
+
+Replit-Commit-Author: Assistant
+Replit-Commit-Session-Id: 252029ac-a386-4769-ae6e-687bfc7e1777
